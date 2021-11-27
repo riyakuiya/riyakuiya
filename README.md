@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @riyakuiya
+- 👋 Hi, I’m Riya
 - 👀 I’m interested in web development and graphic designing
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on projects
